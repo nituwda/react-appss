@@ -1,0 +1,43 @@
+.education {
+  padding: 10vh;
+  border-radius: 1;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.college,
+.shs {
+  text-align: justify;
+  width: 50%;
+}
+
+hr {
+  width: 10%;
+}
+
+.title {
+  text-align: center;
+  font-family: Work Sans;
+  font-size: xxx-large;
+  margin-top: 10vh;
+}
+
+.educ {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 3vh;
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10vh;
+}
+
+.educ > * {
+  font-family: Hind Siliguri;
+}
+
+.educ h2 {
+  text-transform: uppercase;
+}
+
+.phone-icon {
+  margin-right: 10px;
+}

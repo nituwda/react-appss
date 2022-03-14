@@ -1,0 +1,28 @@
+.certs-and-skills {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 10vh;
+  margin-top: 10vh;
+  display: flex;
+}
+
+.certs {
+  padding-right: 20vh;
+}
+
+.certs li {
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+  font-family: Hind Siliguri;
+}
+
+.certs,
+.skills {
+  flex: 1;
+}
+
+.skills {
+  padding: 10vh;
+  border-left: 2px solid;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+}

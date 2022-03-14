@@ -1,0 +1,27 @@
+.container {
+  text-align: center;
+  vertical-align: bottom;
+  padding: 30vh 0 20vh;
+}
+
+.container span {
+  font-family: Work Sans;
+  font-size: xxx-large;
+}
+
+.container p {
+  font-family: ABeeZee;
+  font-size: x-large;
+}
+
+.icon-handles {
+  margin-left: 1em;
+  margin-right: 1em;
+  margin-top: 1em;
+  font-size: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
